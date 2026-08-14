@@ -10,7 +10,7 @@ Salesforce Lead Developer focused on Sales Cloud automation, Apex, Flow, integra
 
 ## Fun Fact
 
-I enjoy turning messy business processes into clean, configurable Salesforce automation that admins and business users can actually maintain.
+My official name, Harshit, is derived from Hindi and means being in a happy state. I understand it can be difficult for English speakers to pronounce, so Hersh works perfectly. Outside of work, I enjoy learning about finance and financial markets in small, consistent chunks. I also like starting my weekend mornings with hard-fought badminton games, then spending the week recovering and getting ready for the next one.
 
 ## Featured Projects
 
