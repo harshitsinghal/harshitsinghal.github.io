@@ -13,7 +13,7 @@ Salesforce Lead Developer focused on Sales Cloud automation, Apex, Flow, integra
 
 Call me "Hersh"! ;)
 
-My official name, Harshit, is derived from Hindi word "हर्षित" and it is an adjective for being happy, joyful, cheerful, or delighted. I understand it can be difficult for English speakers to pronounce, so Hersh works perfectly.
+My official name, Harshit, is derived from Hindi word "हर्षित" and it is an adjective for being happy, joyful, cheerful, or delighted. If “Harshit” feels tricky to pronounce at first, please don’t stress — “Hersh” works just fine.
 
 Outside of work, I enjoy learning about finance and financial markets in small, consistent chunks. I would not call myself a foodie, but I am always keen to experience new things. I also like to follow sports like cricket and tennis, and I enjoy starting my weekend mornings with hard-fought badminton games, then spending the week recovering and getting ready for the next one.
 
