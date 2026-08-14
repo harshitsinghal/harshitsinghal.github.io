@@ -5,7 +5,7 @@ Salesforce Consultant / Developer specializing in Salesforce Sales Cloud automat
 ## Featured Projects
 
 - [Project: Sales Cloud Automation & DevOps](projects/automotive-salescloud-automation-devops)
-  Includes Salesforce Sales Cloud automation, Monday.com-Salesforce bidirectional integration, custom lead conversion, lifecycle automation, and Salesforce DevOps setup.
+  Includes Monday.com-Salesforce bidirectional integration, custom lead conversion, Account/Opportunity lifecycle automation, metadata-driven validation/mapping, and Salesforce DevOps setup.
 
 ## Technical Focus
 

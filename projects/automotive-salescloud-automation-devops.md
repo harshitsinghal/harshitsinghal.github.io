@@ -13,14 +13,6 @@ Worked as a Salesforce Consultant/Developer for an automotive services company, 
 
 ## Selected Technical Work
 
-### Custom Lead Conversion Automation
-
-Built a custom conversion process to support leads with one or many locations. The solution created the correct Account and Opportunity structure based on the number of shops, validated required Location data before conversion, and preserved conversion traceability in background records.
-
-### Metadata-Driven Validation and Mapping
-
-Designed configurable metadata patterns for required-field validation and field mapping across Lead, Location, Account, Contact, and Opportunity objects. This allowed admins and developers to extend mappings and validation rules without deeply changing Apex logic.
-
 ### Monday.com-Salesforce Bidirectional Integration
 
 Designed and documented a Monday.com-Salesforce synchronization approach for location and LOI lifecycle data. The approach covered initial one-time data alignment, ongoing two-way sync rules, field mapping strategy, Salesforce Account identifiers on Monday boards, Monday item identifiers in Salesforce, and controlled duplicate resolution during migration.
@@ -34,13 +26,17 @@ Key elements included:
 - Defined ongoing sync criteria based on Account lifecycle/status values for LOI and acquired-location workflows.
 - Prepared a controlled merge-script approach with dry-run mode, single-record filtering, max-merge limits, debug summaries, and CSV audit output for migration validation.
 
+### Custom Lead Conversion Automation
+
+Built a custom conversion process to support leads with one or many locations. The solution created the correct Account and Opportunity structure based on the number of shops, validated required Location data before conversion, and preserved conversion traceability in background records.
+
 ### Account and Opportunity Lifecycle Automation
 
 Implemented automation to synchronize selected Account and Opportunity fields, derive Account Status from Opportunity Stage, and restrict manual changes where business rules required system-managed values.
 
-### Production Hotfix Delivery
+### Metadata-Driven Validation and Mapping
 
-Delivered time-sensitive production changes using isolated hotfix branches and controlled metadata deployments. Examples included Lead Gate 1 validations, Opportunity date validations, broker-user visibility restrictions, Account Status automation, and calendar/event sync fixes.
+Designed configurable metadata patterns for required-field validation and field mapping across Lead, Location, Account, Contact, and Opportunity objects. This allowed admins and developers to extend mappings and validation rules without deeply changing Apex logic.
 
 ### DevOps and Project Governance
 
