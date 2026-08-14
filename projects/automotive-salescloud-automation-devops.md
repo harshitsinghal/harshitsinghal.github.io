@@ -21,6 +21,19 @@ Built a custom conversion process to support leads with one or many locations. T
 
 Designed configurable metadata patterns for required-field validation and field mapping across Lead, Location, Account, Contact, and Opportunity objects. This allowed admins and developers to extend mappings and validation rules without deeply changing Apex logic.
 
+### Monday.com-Salesforce Bidirectional Integration
+
+Designed and documented a Monday.com-Salesforce synchronization approach for location and LOI lifecycle data. The approach covered initial one-time data alignment, ongoing two-way sync rules, field mapping strategy, Salesforce Account identifiers on Monday boards, Monday item identifiers in Salesforce, and controlled duplicate resolution during migration.
+
+Key elements included:
+
+- Defined bidirectional field mappings between Monday boards and Salesforce Account records.
+- Designed one-way identifier sync patterns, including Monday item IDs into Salesforce and Salesforce Account IDs back to Monday.
+- Planned first-time sync for existing location records, including criteria-based sync triggers and duplicate Account merge strategy.
+- Designed post-migration safeguards using unique Location Number enforcement to prevent future duplicate Account creation.
+- Defined ongoing sync criteria based on Account lifecycle/status values for LOI and acquired-location workflows.
+- Prepared a controlled merge-script approach with dry-run mode, single-record filtering, max-merge limits, debug summaries, and CSV audit output for migration validation.
+
 ### Account and Opportunity Lifecycle Automation
 
 Implemented automation to synchronize selected Account and Opportunity fields, derive Account Status from Opportunity Stage, and restrict manual changes where business rules required system-managed values.
