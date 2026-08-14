@@ -1,5 +1,5 @@
 ---
-title: Harshit (Hersh) Singhal
+layout: default
 ---
 
 <h1 class="home-title">Salesforce Solution Architect & Lead Developer</h1>
