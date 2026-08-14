@@ -55,11 +55,11 @@ I’m open to Salesforce Solution Architecture roles, technical leadership oppor
 - Salesforce Certified Force.com Developer (Deprecated)
 - Salesforce Certified Platform Developer
 
+## Technology Stack
+
+Salesforce Sales Cloud, Apex, Flow, Custom Metadata Types, Custom Labels, Validation Rules, Lightning Record Pages, Page Layouts, Permission Sets, Salesforce DX, Salesforce CLI, Git, GitHub, GitHub Actions, Monday.com Integration.
+
 ## Featured Projects
 
 - [Project: Sales Cloud Automation & DevOps](projects/automotive-salescloud-automation-devops)  
   Includes Monday.com-Salesforce bidirectional integration, custom lead conversion, Account/Opportunity lifecycle automation, metadata-driven validation/mapping, and Salesforce DevOps setup.
-
-## Technology Stack
-
-Salesforce Sales Cloud, Apex, Flow, Custom Metadata Types, Custom Labels, Validation Rules, Lightning Record Pages, Page Layouts, Permission Sets, Salesforce DX, Salesforce CLI, Git, GitHub, GitHub Actions, Monday.com Integration.
