@@ -15,7 +15,13 @@ Outside of work, I enjoy learning about finance and financial markets in small, 
 
 ## About Me
 
-Salesforce Lead Developer focused on Sales Cloud automation, Apex, Flow, integrations, metadata-driven frameworks, and practical Salesforce DevOps. I help teams modernize existing Salesforce orgs, improve data quality, automate business processes, and deliver production-safe enhancements through disciplined sandbox and GitHub-based release workflows.
+I’m a Salesforce Solution Architect with 14+ years of experience designing and delivering scalable CRM solutions across Sales Cloud, Service Cloud, and Experience Cloud. I’ve grown from a hands-on developer into a solution-focused technical leader, working closely with business stakeholders to design systems that solve real business problems.
+
+My experience spans enterprise CRM implementations, legacy system transformations, Salesforce integrations, data migration, Lightning transformations, CPQ, contract lifecycle automation, and mentoring development teams.
+
+Currently, I work as an independent Salesforce consultant, helping organizations design and deliver high-impact CRM solutions. Alongside my core Salesforce work, I’m actively exploring AI within the CRM ecosystem and building AI-driven applications through personal projects, especially around workflow automation and better decision-making.
+
+I’m open to Salesforce Solution Architecture roles, technical leadership opportunities, consulting/freelance engagements, and AI + CRM problem spaces.
 
 ## Past Experience
 
