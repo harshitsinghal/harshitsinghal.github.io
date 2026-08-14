@@ -3,7 +3,7 @@ title: Project: Sales Cloud Automation & DevOps
 layout: page
 ---
 
-<div class="project-page">
+<div class="project-page" markdown="1">
 
 <h1>Project: Sales Cloud Automation & DevOps</h1>
 
