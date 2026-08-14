@@ -2,7 +2,7 @@
 title: Harshit (Hersh) Singhal
 ---
 
-# Harshit (Hersh) Singhal
+# Salesforce Solution Architect & Lead Developer | 14+ years in IT | Exploring AI
 
 ## About Me
 
