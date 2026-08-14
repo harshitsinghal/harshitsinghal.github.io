@@ -46,4 +46,14 @@ Salesforce Sales Cloud, Apex, Flow, Custom Metadata Types, Custom Labels, Valida
 
 ## Certifications
 
-Salesforce certifications and credentials can be added here.
+- Salesforce Certified Platform Development Lifecycle and Deployment Architect
+- Salesforce Certified Platform Sharing and Visibility Architect
+- Salesforce Certified Platform App Builder
+- Salesforce Certified Platform Developer II
+- Salesforce Certified Experience Cloud Consultant
+- Salesforce Certified CPQ Administrator
+- Salesforce Certified Sales Cloud Consultant
+- Salesforce Certified Service Cloud Consultant
+- Salesforce Certified Platform Administrator
+- Salesforce Certified Force.com Developer (Deprecated)
+- Salesforce Certified Platform Developer
