@@ -9,7 +9,7 @@ title: Harshit (Hersh) Singhal
 
 Salesforce Lead Developer focused on Sales Cloud automation, Apex, Flow, integrations, metadata-driven frameworks, and practical Salesforce DevOps. I help teams modernize existing Salesforce orgs, improve data quality, automate business processes, and deliver production-safe enhancements through disciplined sandbox and GitHub-based release workflows.
 
-## Fun Fact
+## Fun Facts
 
 Call me "Hersh"! ;)
 
