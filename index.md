@@ -24,9 +24,11 @@ Outside of work, I enjoy learning about finance and financial markets in small, 
 
 ## Past Experience
 
-- Salesforce consulting and development for customized Sales Cloud environments.
-- Production hotfix delivery, sandbox testing, metadata retrieval, and controlled deployment planning.
-- Business-facing solution design, requirements clarification, implementation, testing support, and handoff documentation.
+- **Independent Salesforce Technical Consultant** — Self Employed, Aug 2021 - Present
+- **IHS Markit** — Full-time, May 2018 - Aug 2021
+- **HCL Technologies** — Technical Consultant - Salesforce, Sep 2016 - May 2018
+- **Fujitsu** — Senior Salesforce Developer, Jun 2015 - Aug 2016
+- **Genpact Headstrong Capital Markets** — Sr. Software Engineer - Salesforce, Jul 2012 - Jun 2015
 
 ## Technical Skills
 
