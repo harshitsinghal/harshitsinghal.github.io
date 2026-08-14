@@ -2,7 +2,8 @@
 title: Harshit (Hersh) Singhal
 ---
 
-# Salesforce Solution Architect & Lead Developer | 14+ years in IT | Exploring AI
+<h1 class="home-title">Salesforce Solution Architect & Lead Developer</h1>
+<p class="home-subtitle">14+ years in IT | Exploring AI</p>
 
 ## About Me
 
