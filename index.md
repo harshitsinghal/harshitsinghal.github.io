@@ -4,7 +4,6 @@ title: Harshit (Hersh) Singhal - Portfolio
 
 # Harshit (Hersh) Singhal - Portfolio
 
-Toronto, Ontario | Email: [singhal.harshit@yahoo.com](mailto:singhal.harshit@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/singhalharshit/)
 
 Salesforce Lead Developer specializing in Salesforce Sales Cloud automation, Apex, Flow, integrations, metadata-driven frameworks, and Salesforce DevOps.
 
