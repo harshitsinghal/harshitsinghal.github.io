@@ -1,4 +1,10 @@
-# Project: Sales Cloud Automation & DevOps
+---
+title: Project: Sales Cloud Automation & DevOps
+---
+
+<h1>Project: Sales Cloud Automation & DevOps</h1>
+
+Role: Salesforce Lead Developer
 
 Worked as a Salesforce Consultant/Developer for an automotive services company, delivering Salesforce Sales Cloud enhancements, Monday.com-Salesforce bidirectional integration, custom lead conversion automation, data quality controls, opportunity/account lifecycle automation, calendar/event automation, configurable metadata frameworks, production hotfixes, and Salesforce DX/GitHub DevOps setup for an existing customized production org.
 
