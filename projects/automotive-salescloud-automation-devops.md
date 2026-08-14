@@ -20,7 +20,7 @@ Worked as a Salesforce Consultant/Developer for an automotive services company, 
 - Delivered production hotfixes for validation rules, security/sharing, calendar events, status automation, and lead conversion edge cases.
 - Established Salesforce DX and GitHub-based DevOps practices for an existing production Salesforce org, including production metadata baselining, sandbox development, feature branches, hotfix branches, pull requests, and manifest-based deployments.
 
-## Selected Technical Work
+## Major Highlights
 
 ### Monday.com-Salesforce Bidirectional Integration
 
